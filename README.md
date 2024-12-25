@@ -9,7 +9,6 @@ A full-stack payments application built using the **MERN stack** (MongoDB, Expre
 - 🔐 **Signup & Signin:** Secure user authentication.
 - 💸 **Money Transfer:** Transfer funds between users.
 - 📝 **Update Profile:** Update personal details.
-- 📊 **User Dashboard:** View transaction history and account details.
 
 ---
 

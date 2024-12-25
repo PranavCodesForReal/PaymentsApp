@@ -45,5 +45,4 @@ A full-stack payments application built using the **MERN stack** (MongoDB, Expre
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-payments-app.git
-cd mern-payments-app
+https://github.com/PranavCodesForReal/PaymentsApp.git

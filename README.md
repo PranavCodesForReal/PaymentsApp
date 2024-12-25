@@ -46,5 +46,11 @@ A full-stack payments application built using the **MERN stack** (MongoDB, Expre
 
 ```bash
 https://github.com/PranavCodesForReal/PaymentsApp.git
-'''
-Now replace your mongoDB URL in /backend/db.js
+```
+### Configure MongoDB
+- After cloning the repository, open the backend folder.
+- Replace the MongoDB connection URL in backend/db.js with your own MongoDB URL.
+
+
+
+
